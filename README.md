@@ -1,90 +1,92 @@
-
-
-<h1>
-  Hi There, I'm Abdelsamad Rabee
+<h1 align="center">
+  Hi There, I'm Abdelsamad Rabee  
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-<p>
-  I'm a Front-End Developer with a strong passion for building clean, responsive, and user-friendly web interfaces.
+<p align="center">
+  🚀 Turning ideas into <strong>interactive, responsive, and user-friendly web experiences</strong>.
 </p>
 
-👨‍💻 I have a background in graphic design and performance optimization, and I'm proficient in Front-End Development using technologies like HTML, CSS, Bootstrap, JavaScript, TypeScript and React.js
-
-🎓 I graduated from Arap Open University-Cairo -EL-Shorouk city, with a degree in Computer Science.
-
-📚 Learning full-stack development and enhancing my React skills.
-
-🎯 Future Goals: To master modern web technologies and create outstanding UI/UX experiences.
-
-📫 Email: abdelsamad.rabee@gmail.com
 ---
 
-### 📫 Social Links
+### 👨‍💻 About Me
+- Background in **Graphic Design** & **Performance Optimization**  
+- Front-End Developer with expertise in: **HTML, CSS, Bootstrap, Tailwind, JavaScript, TypeScript & React.js**  
+- 🎓 Computer Science graduate from **Arap Open University – Cairo (El-Shorouk)**  
+- 📚 Currently learning **Full-Stack Development** and advancing React skills  
+- 🎯 **Goal:** Build modern apps with **seamless UI/UX** that people love  
+- 📫 Reach me at: [abdelsamad.rabee@gmail.com](mailto:abdelsamad.rabee@gmail.com)
 
-<p>
+---
+
+### 🌐 Connect with Me
+<p align="center">
   <a href="https://www.facebook.com/abd.elsamadh">
-    <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat&logo=facebook&logoColor=white" alt="Facebook">
+    <img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
   <a href="https://www.linkedin.com/in/abd-elsamad-rabee-38b6093b1/">
-    <img src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/abdelsamadrabee">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
 
+---
 
----    
+### 💻 Skills
 
+#### Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" />
+</p>
 
-### 👨‍💻 Programming Languages
+#### Frameworks & Libraries
+<p align="center">
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+</p>
 
-<p>
- 
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+#### Tools & Platforms
+<p align="center">
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VSCode-0078D6?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
 
-
-
-
-### 🚀 Front-End Stack & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white" alt="Sass" />
-  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white" alt="jQuery" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
-</p>
-
-
-
-
----
-
-
-### 💻 Operating Systems Used
-
-<p>
-
-  <img src="https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white" alt="Windows" />
+### 🖥 Operating Systems
+<p align="center">
+  <img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
 
 ---
 
-
-
-
-
-
-
-
+### 🚀 My Projects
+| Project | Description | Link |
+|---------|------------|------|
+| Portfolio Website | Personal portfolio showcasing my work | *Coming Soon* |
+| Starbucks Clone | Front-End project using HTML, CSS & JS | [View](https://abdelsamadrabee.github.io/Starbucks/) |
+| E-Commerce App | Responsive online store with React | *Coming Soon* |
 
 ---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdelsamadrabee&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelsamadrabee&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### ✨ Fun Fact
+<p align="center">
+  I love combining <strong>creativity</strong> and <strong>code</strong> to build web experiences that stand out!
+</p>
