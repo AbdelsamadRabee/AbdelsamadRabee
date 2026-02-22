@@ -1,4 +1,4 @@
-<img align="right" src="file:///C:/Users/Abdelsamad/Downloads/logo.webp" width="30%">
+
 
 <h1>
   Hi There, I'm Abdelsamad Rabee
